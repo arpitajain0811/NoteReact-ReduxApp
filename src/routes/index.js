@@ -1,3 +1,3 @@
 const notes = require('./notes.js');
 
-module.exports = [].concat(notes.route);
+module.exports = [].concat(notes);

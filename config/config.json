@@ -2,7 +2,7 @@
   "development": {
     "username": "arpitajain",
     "password": null,
-    "database": "arpitajain",
+    "database": "notesapp",
     "host": "localhost",
     "dialect": "postgres"
   },
